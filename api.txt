@@ -1,0 +1,31 @@
+____________________API
+api/device/autorun-version
+api/device/information
+api/dialup/connection
+api/dialup/dial
+api/dialup/dial error
+api/dialup/dial ok
+api/global/module-switch
+api/host/info
+api/language/current-language
+api/monitoring/check-notifications
+api/monitoring/converged-status
+api/monitoring/status                  # Will use
+api/monitoring/traffic-statistics
+api/net/current-plmn
+api/ota/status
+api/pin/simlock
+api/pin/status
+api/redirection/homepage
+api/user/login
+api/user/login successed!
+api/user/logout
+api/user/state-login
+api/wlan/basic-settings                # Wifi status here 
+api/wlan/handover-setting
+api/wlan/handover-setting error
+api/wlan/handover-setting ok
+api/wlan/multi-basic-settings
+api/wlan/multi-security-settings
+api/wlan/station-information
+____________________
