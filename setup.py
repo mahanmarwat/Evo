@@ -86,7 +86,7 @@ if sys.platform == "win32":
     base = "Win32GUI"
 
 executables = [
-    Executable("Evo.py",
+    Executable("Evo.pyw",
                base=base
     )
 ]
