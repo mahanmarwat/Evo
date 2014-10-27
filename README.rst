@@ -4,8 +4,9 @@ Evo: GUI application for PTCL Evo Wingle
 Evo is a GUI application for PTCL Evo Wingle. Evo is a very lightweight (less than 100 KB) application
 which shows network status and statistics. Evo is designed from ground up to support multi-platform and 
 have hooks for future improvements.
-
+    
 .. image:: doc/Evo_files/image012.jpg
+    :alt: Evo application
     :align: center
 
 Evo Features:
