@@ -5,7 +5,7 @@ Evo is a GUI application for PTCL Evo Wingle. Evo is a very lightweight (less th
 which shows network status and statistics. Evo is designed from ground up to support multi-platform and 
 have hooks for future improvements.
     
-.. image:: doc/Evo_files/image012.jpg
+.. image:: data/main.jpg
     :alt: Evo application
     :align: center
 
