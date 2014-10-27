@@ -5,6 +5,9 @@ Evo is a GUI application for PTCL Evo Wingle. Evo is a very lightweight (less th
 which shows network status and statistics. Evo is designed from ground up to support multi-platform and 
 have hooks for future improvements.
 
+.. image:: doc/Evo_files/image012.jpg
+    :align: center
+
 Evo Features:
 ------------
 
@@ -18,6 +21,7 @@ Running:
 
 Evo has been written in Python Programming Language and its GUI is GTK based.
 Therefore to run Evo, Python Interpreter and PyGi are required.
+
 Follow the below steps, to run Evo:
 
 1. First-of-all download Python 3 from http://www.python.org and install it.
@@ -55,7 +59,12 @@ Freezing (Compiling):
 
 To freeze Evo to .exe file, you need cx_Freeze to be avilable on your pc.
 
+Execute this:
+
     $ setup.py build
+
+**Note**: You have to manually copy the *Evo.glade*, *Evo.ico* and *config.ini* files to your **build/<sub-dir>** and
+replace the existing one. Because cx_Freeze don't copy these files correctly.
 
 Licence:
 --------
