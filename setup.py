@@ -87,12 +87,13 @@ if sys.platform == "win32":
 
 executables = [
     Executable("Evo.pyw",
-               base=base
+               base=base,
+               icon="Evo.ico"
     )
 ]
 
 buildOptions = dict(
-    compressed = False,
+    compressed = True,
     includes = ["gi"],
     packages = ["gi"],
     include_files = include_files
