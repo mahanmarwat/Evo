@@ -69,5 +69,6 @@ replace the existing one. Because cx_Freeze don't copy these files correctly.
 
 Licence:
 --------
+MIT license based as long as you are not a company, organization or a team who want to distribute it.
 
 Copyright © 2014 Mahan Marwat. All rights reserved.
